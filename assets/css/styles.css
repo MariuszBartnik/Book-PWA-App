@@ -1,0 +1,21 @@
+nav.nav-wrapper{
+    padding: 0 30px!important;
+}
+
+.add-btn{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.form-change-link{
+    cursor: pointer;
+}
+
+.login-section, .logout-section, .logout-btn, .signin-form, .add-book-btn{
+    display: none;
+}
+
+.login-output, .signin-output{
+    margin-top: 10px;
+}
